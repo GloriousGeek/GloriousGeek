@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GloriousGeek
-- 👀 I’m interested in python coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python programs
-- 📫 I can be reached at geek.glorious@gmail.com
+- 👀 I’m a Data Scientist, mainly focused on Python programming
+- 🌱 I’m always in learning mode
+- 💞️ Feel free to request for collaborations
+- 📫 I can be reached at geek.glorious@gmail.com for opportunities
 
 <!---
 GloriousGeek/GloriousGeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
