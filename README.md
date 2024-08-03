@@ -7,7 +7,7 @@
 I specialize in turning data into valuable insights and solutions. Here’s a snapshot of what I bring to the table:
 
 - **Machine Learning (ML)**: Crafting predictive models and implementing sophisticated algorithms to solve real-world problems.
-- **Deep Learning (DL)**: Building and training neural networks to tackle complex tasks like image recognition and natural language processing.
+- **Deep Learning (DL)**: Building and training neural networks to tackle complex tasks like predictions/estimations and natural language processing.
 - **Natural Language Processing (NLP)**: Enhancing human-computer interactions and extracting meaning from textual data.
 - **Cloud Computing**: Leveraging **AWS** and **Google App Engine (GAE)** to deploy scalable and efficient solutions.
 
