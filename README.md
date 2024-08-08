@@ -6,6 +6,9 @@
 
 I specialize in turning data into valuable insights and solutions. Here’s a snapshot of what I bring to the table:
 
+- **Data Cleaning** 🧹: Transforming messy, unstructured data into a clean, usable format to ensure accurate and efficient analysis.
+- **Data Analysis** 📊: Uncovering patterns, trends, and insights from data to inform decision-making and solve problems.
+- **Data Visualization** 🎨: Creating impactful visual representations of data to communicate findings clearly and effectively.
 - **Machine Learning (ML)**: Crafting predictive models and implementing sophisticated algorithms to solve real-world problems.
 - **Deep Learning (DL)**: Building and training neural networks to tackle complex tasks like predictions/estimations and natural language processing.
 - **Natural Language Processing (NLP)**: Enhancing human-computer interactions and extracting meaning from textual data.
