@@ -1,4 +1,4 @@
-Hey, I’m GloriousGeek 👋
+**Hey, I’m GloriousGeek **👋
 
 **Engineer by background. Technologist by curiosity. Entrepreneur by mindset.**
 
