@@ -4,7 +4,7 @@
 
 I’m passionate about technology, business and building things that solve real problems.
 
-My journey started in Civil Engineering, expanded into Data Science and has taken me across industries including renewable energy, healthcare technology, software development and business operations.
+My journey started in Engineering, expanded into Data Science and has taken me across industries including renewable energy, healthcare technology, software development and business operations.
 
 Along the way, I’ve developed an interest not just in how technology works, but in why products exist, who they serve and what makes people actually want to use them.
 
